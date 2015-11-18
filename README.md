@@ -7,4 +7,4 @@ Number of words in vocabulary: 3 millions.
 
 ![fig1] (demo.JPG)
 
-Example: ./extract_vocabulary "binary_model" "output_filename"
+Example: scripts/extract_vocabulary "binary_model" "output_filename"
